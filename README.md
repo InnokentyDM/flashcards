@@ -1,6 +1,7 @@
 # FlashCards
 * Backend - Python, FastAPI
 * Frontend - ReactJS, TypeScript
+* Database - MongoDB, Motor
 
 **Run backend**
 ```python
